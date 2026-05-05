@@ -1,4 +1,4 @@
-# Terminal-Based-Snake-Game
+# Console Snake Game
 I built a Minimal Console Based Snake Game  Using C  (Progamming Language) .     Follow The README file to Enjoy The Game.      
 # 🐍 Snake Game in C
 

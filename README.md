@@ -1,11 +1,9 @@
-# Console Snake Game
-I built a Minimal Console Based Snake Game  Using C  (Progamming Language) .     Follow The README file to Enjoy The Game.      
-# 🐍 Snake Game in C
+**Console Snake Game**
 
 A classic **Snake Game** implemented in the C programming language.  
 Control the snake, eat the food, and grow longer — but don’t run into yourself or the walls!
 
-## 📖 Overview
+ **Overview**
 This is a console-based Snake game written entirely in C.  
 It uses basic terminal output to render the snake and the game board.  
 
@@ -15,7 +13,7 @@ It uses basic terminal output to render the snake and the game board.
 - Score tracking
 - Game-over detection when hitting walls or itself
 
-- ### Prerequisites
+- **Prerequisites**
 - A C compiler such as **GCC**
 - Install "PDcurses"(for Windows)/"ncurses"(for linux or mac) 
         To install ncurses -  sudo apt install libncurses5-dev libncursesw5-dev (for linux)
